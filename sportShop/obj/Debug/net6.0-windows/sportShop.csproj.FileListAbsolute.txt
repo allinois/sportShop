@@ -1,0 +1,7 @@
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\sportShop.csproj.AssemblyReference.cache
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\autorisationWin.g.cs
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\Form\ProductCatalog.g.cs
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\sportShop_MarkupCompile.cache
+C:\Users\kaifo\YandexDisk\ШАРАГА\МДК 01.01 Разработка программных модулей\sportShop\sportShop\obj\Debug\net6.0-windows\sportShop_MarkupCompile.lref
